@@ -1,0 +1,9 @@
+{
+  "name": "face-react",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/face-react/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project face-react --web",
+  "targets": {}
+}
